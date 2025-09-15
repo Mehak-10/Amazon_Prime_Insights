@@ -65,10 +65,6 @@ This dashboard empowers OTT platforms and analysts to:
 
 🚀 Guide content acquisition and production strategies
 
-📸 Dashboard Preview
-
-🖼 https://github.com/Mehak-10/Amazon_Prime_Insights/blob/main/amazon%20prime%20video%20dashboard.png
-
 🙋‍♀ Author
 
 Mehak – Data Analyst | Power BI Enthusiast
