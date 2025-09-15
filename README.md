@@ -67,7 +67,7 @@ This dashboard empowers OTT platforms and analysts to:
 
 📸 Dashboard Preview
 
-🖼 Amazon Prime Video Dashboard
+🖼 https://github.com/Mehak-10/Amazon_Prime_Insights/blob/main/amazon%20prime%20video%20dashboard.png
 
 🙋‍♀ Author
 
